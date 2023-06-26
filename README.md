@@ -49,7 +49,7 @@ pip install -r requirements.txt
 6. Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run 0_🏠_Home.py
 ```
 
 ## Usage
